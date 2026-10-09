@@ -1,0 +1,35 @@
+{
+  "title": "׳§׳˜׳׳•׳’ ארונות תצוגה",
+  "pages": 5,
+  "theme": "default",
+  "createdAt": "2026-10-09 09:45:40",
+  "pageInfo": [
+    {
+      "pageNumber": 1,
+      "imagePath": "images/page_1.jpg",
+      "thumbPath": "thumbs/thumb_1.jpg"
+    },
+    {
+      "pageNumber": 2,
+      "imagePath": "images/page_2.jpg",
+      "thumbPath": "thumbs/thumb_2.jpg"
+    },
+    {
+      "pageNumber": 3,
+      "imagePath": "images/page_3.jpg",
+      "thumbPath": "thumbs/thumb_3.jpg"
+    },
+    {
+      "pageNumber": 4,
+      "imagePath": "images/page_4.jpg",
+      "thumbPath": "thumbs/thumb_4.jpg"
+    },
+    {
+      "pageNumber": 5,
+      "imagePath": "images/page_5.jpg",
+      "thumbPath": "thumbs/thumb_5.jpg"
+    }
+  ],
+  "fullscreen": true,
+  "backgroundColor": "#333333"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "׳§׳˜׳׳•׳’ מפרידי שומן",
+  "pages": 3,
+  "theme": "default",
+  "createdAt": "2026-10-09 09:45:39",
+  "pageInfo": [
+    {
+      "pageNumber": 1,
+      "imagePath": "images/page_1.jpg",
+      "thumbPath": "thumbs/thumb_1.jpg"
+    },
+    {
+      "pageNumber": 2,
+      "imagePath": "images/page_2.jpg",
+      "thumbPath": "thumbs/thumb_2.jpg"
+    },
+    {
+      "pageNumber": 3,
+      "imagePath": "images/page_3.jpg",
+      "thumbPath": "thumbs/thumb_3.jpg"
+    }
+  ],
+  "fullscreen": true,
+  "backgroundColor": "#333333"
+}
